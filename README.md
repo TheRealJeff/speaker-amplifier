@@ -1,16 +1,21 @@
 # speaker-amplifier
-This repository is for the PCB designs and other documentation related to a DIY speaker amplifier build
+This repository is for the PCB designs and other documentation related to a DIY speaker amplifier build. The amplifier cabinet will be made by hand and the circuitry will be designed either using KiCAD or ALTIUM and soldered in-house.
 
 ## Speaker Specs
-* Item
-* Item
-* Item
+* Model:
+* Impedance:
+* Power Output:
 
 ## Amplifier Specs
-* Item
-* Item
+* Type: Class A+AB (probably)
+* Output: Stereo
 
 ### Features
-* Item
+* Inputs: AUX and Bluetooth
+* Input Selector
+* Volume Control
+
+## Cabinet
+* Wood Type:
 * Item
 * Item
