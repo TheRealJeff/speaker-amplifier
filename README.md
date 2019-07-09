@@ -5,9 +5,10 @@ This repository is for the PCB designs and other documentation related to a DIY 
 * Model: PSB 40MKII
 * Impedance: 6 ohms
 * Power Output: 100 Watts
+* Frequency Response: 39Hz - 21kHz
 
 ## Amplifier Specs
-* Type: Class A+AB (probably)
+* Type: Class AB (probably)
 * Output: Stereo
 
 ### Features
