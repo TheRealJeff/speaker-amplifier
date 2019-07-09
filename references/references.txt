@@ -1,0 +1,17 @@
+These are a few websites and other references to be used for this project:
+
+Amplifier Types:
+https://www.electronics-tutorials.ws/amplifier/class-ab-amplifier.html
+
+Speaker Specs:
+https://www.usahifi.com/sites/default/files/product/912/manuals/PSB%20CD%20260%2C%20C%20180%2C%20PSB%2050%20MKII%2C%20PSB%2040%20MKII%2C%20PSB%2030%20MKII%2C%20PSB%2020%20MKII%20Loudspeakers%20Brochure.pdf
+
+Audio Transformer:
+https://www.electronics-tutorials.ws/transformer/audio-transformer.html
+
+AC/DC Converters:
+https://www.electronics-tutorials.ws/connectivity/ac-dc-converters.html
+
+Amplifier Build Guides:
+http://www.circuitbasics.com/design-hi-fi-audio-amplifier-lm3886/
+http://www.circuitbasics.com/tda2050-diy-amplifier-build-guide/
