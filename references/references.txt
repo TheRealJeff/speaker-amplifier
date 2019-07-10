@@ -15,3 +15,8 @@ https://www.electronics-tutorials.ws/connectivity/ac-dc-converters.html
 Amplifier Build Guides:
 http://www.circuitbasics.com/design-hi-fi-audio-amplifier-lm3886/
 http://www.circuitbasics.com/tda2050-diy-amplifier-build-guide/
+
+Dovetail Jointery:
+https://www.woodmagazine.com/video/12-minute-dovetails
+https://howchoo.com/g/mmq4mdfiymr/how-to-make-a-dovetail-joint-with-traditional-woodworking-tools
+https://www.popularmechanics.com/home/how-to-plans/how-to/a19197/how-to-cut-dovetail-joints-woodworking/
