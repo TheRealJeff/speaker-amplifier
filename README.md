@@ -1,5 +1,5 @@
 # speaker-amplifier
-This repository is for the PCB designs and other documentation related to a DIY speaker amplifier build. The amplifier cabinet will be made by hand and the circuitry will be designed either using KiCAD or ALTIUM and soldered in-house.
+This repository is for the PCB designs and other documentation related to a DIY speaker amplifier build. The amplifier cabinet will be made by hand and the circuitry will be designed using ALTIUM and soldered in-house.
 
 ## Speaker Specs
 * Model: PSB 40MKII
@@ -8,13 +8,14 @@ This repository is for the PCB designs and other documentation related to a DIY 
 * Frequency Response: 39Hz - 21kHz
 
 ## Amplifier Specs
-* Type: Class AB (probably)
+* Type: Class AB
 * Output: Stereo
 
 ### Features
-* Inputs: AUX and Bluetooth
-* Input Selector
+* Inputs: AUX and Bluetooth (Future Iteration)
+* Input Selector (for Bluetooth)
 * Volume Control
+* Equalizer
 
 ## Cabinet
 * Wood Type:
