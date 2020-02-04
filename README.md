@@ -1,5 +1,6 @@
 # speaker-amplifier
-This repository is for the PCB designs and other documentation related to a DIY speaker amplifier build. The amplifier cabinet will be made by hand and the circuitry will be designed using ALTIUM and soldered in-house.
+This repository is for the PCB designs and other documentation related to a DIY speaker amplifier build. The amplifier cabinet will be made by hand and the circuitry was designed with KiCAD and soldered in-house.
+Currently, the amplifier features a pre-amp, equalizer control (treble, mid, bass), volume control and a final amplifier.
 
 ## Speaker Specs
 * Model: PSB 40MKII
